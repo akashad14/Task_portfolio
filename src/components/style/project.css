@@ -51,7 +51,7 @@
   color: #555;
 }
 
-/* Responsive */
+
 @media (max-width: 768px) {
   .projects-container {
     flex-direction: column;
